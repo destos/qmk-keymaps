@@ -14,6 +14,6 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 - [x] Cirque touchpad on i2c
-- [ ] Move LGui to left thumb fathers and switch with space bar
+- [x] Move LGUI to left thumb and switch with space bar
 - [ ] Move space bar to right thumb.
 - [ ] Move enter somewhere, maybe layer 1 bottom left
