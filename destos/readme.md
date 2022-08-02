@@ -17,3 +17,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 - [x] Move LGUI to left thumb and switch with space bar
 - [ ] Move space bar to right thumb.
 - [ ] Move enter somewhere, maybe layer 1 bottom left
+- [ ] Right thumb hold does shift, tapping does space.
