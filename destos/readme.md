@@ -18,3 +18,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 - [ ] Move space bar to right thumb.
 - [ ] Move enter somewhere, maybe layer 1 bottom left
 - [ ] Right thumb hold does shift, tapping does space.
+- [ ] LED layer indicators.
+- [ ] Media controls on a toggled layer.
