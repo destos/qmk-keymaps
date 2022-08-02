@@ -11,5 +11,4 @@ corne.build:
 	qmk compile -kb crkbd/rev1 -km destos
 
 link: 
-	ln -sf /Users/pat/dev/keymaps/destos/ /Users/pat/qmk_firmware/keyboards/crkbd/keymaps   
-	
+	ln -sf /Users/pat/dev/keymaps/destos /Users/pat/qmk_firmware/users
